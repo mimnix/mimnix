@@ -7,7 +7,7 @@
   ![Platform Engineering](https://img.shields.io/badge/Platform_Engineering-%23FF6B6B.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
   ![Homelab](https://img.shields.io/badge/Homelab-%23E34F26.svg?style=for-the-badge&logo=homeassistant&logoColor=white)
   
-  [![Blog](https://img.shields.io/badge/📝_Blog-blog.mliq.xyz-blue?style=for-the-badge)](https://blog.mliq.xyz)
+  [![Blog](https://img.shields.io/badge/📝_Blog-blog.mimnix.top-blue?style=for-the-badge)](https://blog.mimnix.top)
   [![Profile Views](https://komarev.com/ghpvc/?username=mimnix&style=for-the-badge&color=blueviolet)](https://github.com/mimnix)
   
 </div>
@@ -21,7 +21,7 @@ Passionate about **cloud computing**, **DevSecOps** and **Platform Engineering**
 - 🔭 Currently working on automation and containerization projects
 - 🌱 Learning more about: Kubernetes, Terraform, and Security best practices
 - 👯 Open to collaborating on innovative open source projects
-- 📝 I write technical articles on [blog.mliq.xyz](https://blog.mliq.xyz)
+- 📝 I write technical articles on [blog.mimnix.top](https://blog.mimnix.top)
 - 💬 Ask me about: Docker, Proxmox, VPN, networking, automation
 
 ---
@@ -99,7 +99,7 @@ I'm always open to new collaborations and tech conversations!
 
 <div align="center">
   
-  [![Blog](https://img.shields.io/badge/Blog-blog.mliq.xyz-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.mliq.xyz)
+  [![Blog](https://img.shields.io/badge/Blog-blog.mimnix.top-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.mimnix.top)
   [![GitHub](https://img.shields.io/badge/GitHub-mimnix-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mimnix)
   
 </div>
