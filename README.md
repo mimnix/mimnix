@@ -16,13 +16,13 @@
 
 ## 🚀 About Me
 
-Passionate about **cloud computing**, **DevSecOps** and **Platform Engineering** always looking for new technological challenges. I love automating processes, building secure infrastructures, and sharing my discoveries.
+Passionate about **cloud computing**, **DevSecOps**, and **Platform Engineering**, and always looking for new technological challenges. I enjoy automating processes, building secure infrastructure, and sharing what I learn along the way.
 
-- 🔭 Currently working on automation and containerization projects
-- 🌱 Learning more about: Kubernetes, Terraform, and Security best practices
-- 👯 Open to collaborating on innovative open source projects
+- 🔭 Currently building automation and containerization projects for my homelab
+- 🌱 Learning more about: Kubernetes, Terraform, and security best practices
+- 👯 Open to collaborating on innovative open-source projects
 - 📝 I write technical articles on [blog.mimnix.top](https://blog.mimnix.top)
-- 💬 Ask me about: Docker, Proxmox, VPN, networking, automation
+- 💬 Ask me about: Docker, Proxmox, VPNs, networking, automation
 
 ---
 
@@ -61,6 +61,15 @@ Passionate about **cloud computing**, **DevSecOps** and **Platform Engineering**
 
 ## 🎯 Featured Projects
 
+### 🎵 [needlectl](https://github.com/mimnix/needlectl)
+> Command-line client for DroppedNeedle: idempotent CSV playlist imports, library-aware relinking, and safe album/track management over the REST API
+
+**Technologies:** Go, REST API, CLI
+
+[![Repo](https://img.shields.io/badge/Repo-needlectl-purple?style=flat-square&logo=github)](https://github.com/mimnix/needlectl)
+
+---
+
 ### 🔥 [FlareProxy](https://github.com/mimnix/FlareProxy)
 > Transparent HTTP proxy adapter that seamlessly forwards client requests to FlareSolverr
 
@@ -70,12 +79,21 @@ Passionate about **cloud computing**, **DevSecOps** and **Platform Engineering**
 
 ---
 
-### 📺 [mimkb-83](https://github.com/mimnix/mimkb-83)
-> A docker-and-VPN-ready mediaserver stack, or if you prefer, your DIY seedbox
+### 📺 [mediaservarr](https://github.com/mimnix/mediaservarr)
+> A Docker-and-VPN-ready mediaserver stack, or if you prefer, your DIY seedbox
 
 **Technologies:** Docker Compose, VPN, Plex/Jellyfin, Sonarr/Radarr
 
-[![Repo](https://img.shields.io/badge/Repo-mimkb--83-green?style=flat-square&logo=github)](https://github.com/mimnix/mimkb-83)
+[![Repo](https://img.shields.io/badge/Repo-mediaservarr-green?style=flat-square&logo=github)](https://github.com/mimnix/mediaservarr)
+
+---
+
+### ⌨️ [mimkb-83](https://github.com/mimnix/mimkb-83)
+> A fully 3D-printed, hand-wired ISO 75% mechanical keyboard powered by a Raspberry Pi Pico
+
+**Technologies:** OpenSCAD, 3D Printing, Raspberry Pi Pico, Custom Firmware
+
+[![Repo](https://img.shields.io/badge/Repo-mimkb--83-orange?style=flat-square&logo=github)](https://github.com/mimnix/mimkb-83)
 
 ---
 
@@ -87,7 +105,7 @@ Passionate about **cloud computing**, **DevSecOps** and **Platform Engineering**
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mimnix&layout=compact&theme=tokyonight&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mimnix&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=mimnix&theme=tokyonight&hide_border=true)
 
 </div>
 
