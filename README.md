@@ -79,15 +79,6 @@ Passionate about **cloud computing**, **DevSecOps**, and **Platform Engineering*
 
 ---
 
-### 📺 [mediaservarr](https://github.com/mimnix/mediaservarr)
-> A Docker-and-VPN-ready mediaserver stack, or if you prefer, your DIY seedbox
-
-**Technologies:** Docker Compose, VPN, Plex/Jellyfin, Sonarr/Radarr
-
-[![Repo](https://img.shields.io/badge/Repo-mediaservarr-green?style=flat-square&logo=github)](https://github.com/mimnix/mediaservarr)
-
----
-
 ### ⌨️ [mimkb-83](https://github.com/mimnix/mimkb-83)
 > A fully 3D-printed, hand-wired ISO 75% mechanical keyboard powered by a Raspberry Pi Pico
 
